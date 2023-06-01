@@ -1,7 +1,7 @@
 # Python_projects
  python projects for fun. Not machine learning centric.
 
-Porjects list:
+Projects list:
 
 1.) Random chord generator
 
