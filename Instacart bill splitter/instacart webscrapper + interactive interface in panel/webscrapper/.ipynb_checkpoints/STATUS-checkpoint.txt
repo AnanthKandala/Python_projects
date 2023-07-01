@@ -1,0 +1,8 @@
+Building a webscrapper for dynamics websites is lot more challenging.
+
+Instacart website is not just a static html website. We also need to login to access a purticular page.
+
+First, try to build a scrapper that uses a saved version of the receipt. But it has unneccessary details.
+
+We could also look to build image recognition software that will look at the image a obtain the text.
+scrapping from the website seems too complicated.

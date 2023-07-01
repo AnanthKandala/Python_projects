@@ -1,0 +1,13 @@
+	item_cost_description	item_quantity	item_name	item_cost
+0	1 x $2.09	32 oz	Simply Nature Organic Low Sodium Chicken Broth	2.09
+1	1 x $3.09	28 oz	Deutsche Küche Hearty Pea Soup	3.09
+2	1 x $2.09	32 oz	Simply Nature Organic Vegetable Broth	2.09
+3	5 x $0.65		Friendly Farms Nonfat Blueberry on the Bottom Greek Yogurt	3.25
+4	1 x $1.95	0.5 gal	Friendly Farms Whole Milk	1.95
+5	1 x $3.25	1 gal	Friendly Farms Whole Milk	3.25
+6	4 x $0.55	each	Avocado	2.2
+7	4 x $1.29	1 lb	Roma Tomato Package	5.16
+8	1 x $3.29	1 lb	Strawberries, Package	3.29
+9	2 x $0.85	1 ct	Cilantro	1.7
+10	1 x $4.39	each	Yellow Potato Bag	4.39
+11	1 x $2.99	2 lb bag	Red Onion Bag	2.99
